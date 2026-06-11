@@ -1,21 +1,16 @@
 cff-version: 1.2.0
 title: Light-Sheet Z-Stack Processing Tool
 message: "If you use this software, please cite it using the metadata below."
-
 type: software
 
 authors:
+  - family-names: Rodriguez
+    given-names: Juan Eduardo
+    affiliation: Institute of Experimental Epileptology and Cognition Research (IEECR), University Hospital Bonn
 
-  family-names: Rodriguez
-  given-names: Juan Eduardo
-  affiliation: Institute of Experimental Epileptology and Cognition Research (IEECR), University Hospital Bonn
-
-version: 1.0
-
+version: 1.1
 date-released: 2026-06-11
-
 license: MIT
 
 repository-code: "https://github.com/JuanEdo-LSFM/LightSheet-ZStack-Processing"
-
 doi: 10.5281/zenodo.20645469
