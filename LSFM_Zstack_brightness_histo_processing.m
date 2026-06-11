@@ -1,5 +1,25 @@
 %% Light-Sheet Z-Stack Brightness and Histogram Processing Tool
 %
+%
+% Author: Juan Eduardo Rodriguez
+%
+% Functional Neuroconnectomics Workgroup
+% Institute of Experimental Epileptology and Cognition Research (IEECR)
+% University Hospital Bonn
+%
+% GitHub:
+% https://github.com/JuanEdo-LSFM/LightSheet-ZStack-Processing
+%
+% DOI:
+% https://doi.org/10.5281/zenodo.20645469
+%
+% License:
+% MIT License
+%
+% Version:
+% v1.0
+%
+%
 % Interactive MATLAB workflow for processing 16-bit TIFF image series.
 %
 % Features:
